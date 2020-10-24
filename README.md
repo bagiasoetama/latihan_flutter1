@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Nama  : RD.Triawan Subagia Soetama
+Kelas : TIF RM 18 CID
+NPM   : 18111132
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
